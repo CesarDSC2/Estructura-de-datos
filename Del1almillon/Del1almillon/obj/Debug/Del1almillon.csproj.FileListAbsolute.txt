@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\obj\Debug\Del1almillon.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\obj\Debug\Del1almillon.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\bin\Debug\Del1almillon.exe.config
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\bin\Debug\Del1almillon.exe
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\bin\Debug\Del1almillon.pdb
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\obj\Debug\Del1almillon.exe
+C:\Users\PC\Desktop\Del1almillon\Del1almillon\obj\Debug\Del1almillon.pdb
