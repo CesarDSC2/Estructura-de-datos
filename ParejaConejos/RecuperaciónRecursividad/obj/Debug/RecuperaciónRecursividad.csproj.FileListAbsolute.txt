@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\bin\Debug\RecuperaciónRecursividad.exe.config
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\bin\Debug\RecuperaciónRecursividad.exe
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\bin\Debug\RecuperaciónRecursividad.pdb
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\obj\Debug\RecuperaciónRecursividad.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\obj\Debug\RecuperaciónRecursividad.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\obj\Debug\RecuperaciónRecursividad.exe
+C:\Users\dell\source\repos\RecuperaciónRecursividad\RecuperaciónRecursividad\obj\Debug\RecuperaciónRecursividad.pdb

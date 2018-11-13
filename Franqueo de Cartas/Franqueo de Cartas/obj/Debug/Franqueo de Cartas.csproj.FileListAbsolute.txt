@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\bin\Debug\Franqueo de Cartas.exe.config
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\bin\Debug\Franqueo de Cartas.exe
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\bin\Debug\Franqueo de Cartas.pdb
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\obj\Debug\Franqueo de Cartas.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\obj\Debug\Franqueo de Cartas.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\obj\Debug\Franqueo de Cartas.exe
+C:\Users\dell\source\repos\Franqueo de Cartas\Franqueo de Cartas\obj\Debug\Franqueo de Cartas.pdb
